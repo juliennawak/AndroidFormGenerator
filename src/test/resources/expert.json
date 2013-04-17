@@ -1,0 +1,13 @@
+{ 
+    "name" : "Julien",
+    "skills" : "SOA, Web Services, Data-Mining, Geographic Information Systems",
+    "experience" : {
+        
+            "2009" : "R&D Ingeneer at EBM / Linagora",
+            "2008-2009" : "Post-doc at LSIIT",
+            "2007-2008" : "ATER at LIUPPA",
+            "2004-2007" : "Phd. in Computer sciences at LIUPPA"
+        
+    }
+    
+}
